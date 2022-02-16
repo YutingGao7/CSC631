@@ -1059,7 +1059,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 933017732}
-  offset: {x: 0, y: 2, z: -5}
+  offset: {x: 0, y: 2, z: 0}
 --- !u!1 &1070895688
 GameObject:
   m_ObjectHideFlags: 0
@@ -1091,6 +1091,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cameraOne: {fileID: 963194225}
   cameraTwo: {fileID: 565705745}
+  cameraThree: {fileID: 2137632174}
 --- !u!4 &1070895690
 Transform:
   m_ObjectHideFlags: 0
